@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **finishing my studies**
 
-- 🌱 I’m currently learning **Multiplatform App Development**
+- 🌱 I’m currently studying **Computer Engineering**
 
 - 👯 I’m looking to collaborate on **new projects**
 
